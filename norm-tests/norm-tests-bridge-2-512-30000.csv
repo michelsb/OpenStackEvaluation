@@ -1,0 +1,7 @@
+Method Statistic P-Value "Alternative Hypothesis (KS Test)"
+"One-sample Kolmogorov-Smirnov test" 0.23126902664204774 0.0 two-sided
+"Lilliefors (Kolmogorov-Smirnov) normality test" 0.23126902664204774 4.476538884649954e-75 
+"Cramer-von Mises normality test" 7.465664101845674 7.37e-10 
+"Shapiro-Wilk normality test" 0.44112574664443516 1.2354820337063085e-36 
+"Shapiro-Francia normality test" 0.4334447745405902 8.857810681301405e-32 
+"Anderson-Darling normality test" 45.73370419935384 3.7e-24 
